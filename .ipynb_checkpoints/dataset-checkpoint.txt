@@ -1,0 +1,5 @@
+Lung X Ray : https://www.kaggle.com/datasets/jtiptj/chest-xray-pneumoniacovid19tuberculosis
+
+Fracture X Ray : https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data
+
+Symptom 2 Diesis : https://www.kaggle.com/datasets/
